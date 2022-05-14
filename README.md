@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://in.linkedin.com/in/muthusaravanans](https://in.linkedin.com/in/muthusaravanans)
 
-- 💬 Ask me about **Sequence analysis, Machine learning, Whole genome analysis**
+- 💬 Ask me about **Sequence analysis, Machine learning, Whole genome analysis, and predictive modeling**
 
 - 📫 How to reach me **muthusaravanan.ind@gmail.com**
 
