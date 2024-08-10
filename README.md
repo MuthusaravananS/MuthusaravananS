@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Biological data analysis and Machine learning](https://github.com/MuthusaravananS/EnsembleQS)
+- 🔭 I’m currently working on [Biological data analysis and Machine learning]([https://github.com/MuthusaravananS/EnsembleQS](https://scholar.google.com/citations?hl=en&user=mG0bWLIAAAAJ))
 
 - 🌱 I’m currently learning **Python, MATLAB, Scikit learn, Keras, Tensor flow, pyTorch, COMSOL**
 
